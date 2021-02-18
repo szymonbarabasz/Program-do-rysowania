@@ -1,0 +1,26 @@
+{
+  "name": "program-do-rysowaia",
+  "version": "1.0.0",
+  "description": "dsp",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "browser-sync start --server --files \"*.html, *.css, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szymonbarabasz/Program-do-rysowania.git"
+  },
+  "keywords": [
+    "ke"
+  ],
+  "author": "Szymon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szymonbarabasz/Program-do-rysowania/issues"
+  },
+  "homepage": "https://github.com/szymonbarabasz/Program-do-rysowania#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
